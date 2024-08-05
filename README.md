@@ -41,6 +41,9 @@ For close price prediction using CatBoost, we have meticulously engineered a set
 - Date Features
 - Encode categorical variables
 
+Here, I have tried with lots of model such as SVM,Random Forest Regression,Linear Regression,XGBoost,LightGBM,Catboost and stacking regression.
+<br>
+Among all of these CatBoost stood-up.
 ## Result 
 Got an MSE score of 0.013116839606646665 after hyperparameter tuning.
 Got an RMSE score of 0.12376 on kaggle leaderboard.
